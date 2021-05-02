@@ -1,0 +1,16 @@
+C:\Users\bmice\Desktop\number guessing\bin\Debug\net5.0\number guessing.exe
+C:\Users\bmice\Desktop\number guessing\bin\Debug\net5.0\number guessing.deps.json
+C:\Users\bmice\Desktop\number guessing\bin\Debug\net5.0\number guessing.runtimeconfig.json
+C:\Users\bmice\Desktop\number guessing\bin\Debug\net5.0\number guessing.runtimeconfig.dev.json
+C:\Users\bmice\Desktop\number guessing\bin\Debug\net5.0\number guessing.dll
+C:\Users\bmice\Desktop\number guessing\bin\Debug\net5.0\ref\number guessing.dll
+C:\Users\bmice\Desktop\number guessing\bin\Debug\net5.0\number guessing.pdb
+C:\Users\bmice\Desktop\number guessing\obj\Debug\net5.0\number guessing.csprojAssemblyReference.cache
+C:\Users\bmice\Desktop\number guessing\obj\Debug\net5.0\number guessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmice\Desktop\number guessing\obj\Debug\net5.0\number guessing.AssemblyInfoInputs.cache
+C:\Users\bmice\Desktop\number guessing\obj\Debug\net5.0\number guessing.AssemblyInfo.cs
+C:\Users\bmice\Desktop\number guessing\obj\Debug\net5.0\number guessing.csproj.CoreCompileInputs.cache
+C:\Users\bmice\Desktop\number guessing\obj\Debug\net5.0\number guessing.dll
+C:\Users\bmice\Desktop\number guessing\obj\Debug\net5.0\ref\number guessing.dll
+C:\Users\bmice\Desktop\number guessing\obj\Debug\net5.0\number guessing.pdb
+C:\Users\bmice\Desktop\number guessing\obj\Debug\net5.0\number guessing.genruntimeconfig.cache
